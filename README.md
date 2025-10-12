@@ -18,4 +18,6 @@ I'm currently unemplyoed.
 
 I'm currently learning web-development.
 
+I love 🍈,🫐, 🦑
+
 Pronouns: they/them
