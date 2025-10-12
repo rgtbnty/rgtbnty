@@ -1,4 +1,4 @@
-# About me
+# About me 🏳️‍🌈
 
 <!--
 **rgtbnty/rgtbnty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,3 @@ I'm currently unemplyoed.
 I'm currently learning web-development.
 
 Pronouns: they/them
-
-🏳️‍🌈
