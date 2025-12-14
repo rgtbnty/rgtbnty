@@ -1,4 +1,4 @@
-# About me 🏳️‍🌈
+# About me
 
 <!--
 **rgtbnty/rgtbnty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently unemplyoed.
+Backend-focused developer building web applications.
 
-I'm currently learning web-development.
+- Interested in backend development, APIs, and databases
+- Currently building portfolio projects with Node.js and PostgreSQL
+- Open to remote and entry-level opportunities
 
-I love 🍈,🫐, 🦑
-
-Pronouns: they/them
+📌 Main project: ticket-system
