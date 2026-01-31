@@ -20,4 +20,4 @@ Backend-focused developer building web applications.
 - Currently building portfolio projects with Node.js and PostgreSQL
 - Open to remote and entry-level opportunities
 
-📌 Main project: [ticket-system ](https://github.com/rgtbnty/ticket-system)
+📌 Main project: [🌧️air pressure alert🔔 ](https://github.com/rgtbnty/air-pressure-alert)
